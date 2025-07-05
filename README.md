@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/intsig-textin-textin-mcp-badge.png)](https://mseep.ai/app/intsig-textin-textin-mcp)
+
 # TextIn OCR MCP
 <p align="center">
 <img align="center" src="https://ccidownload.blob.core.chinacloudapi.cn/download/2025/LLMS/logo.png" width="800" alt="TextIn">
